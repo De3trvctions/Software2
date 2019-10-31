@@ -1,6 +1,6 @@
 EASY SEARCH
 
-This extension will add a context menu entry to search for selected text using Google.  Useful for when your default search engine is an alternative like DuckDuckGo but you still want to be able to easily search with Google.
+This extension is a tools which makes you able to search thing that you want to easilly by a right click on it. Use it, and save your time.
 
 Icon made by [Freepik](https://www.freepik.com/) from Flaticon is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
 
