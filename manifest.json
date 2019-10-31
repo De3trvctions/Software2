@@ -1,12 +1,12 @@
 {
     "manifest_version": 2,
-    "name": "Simple Search For Multi-Engine",
-    "version": "1.2",
-    "description": "Add Google search to selected text context menu.",
-    "developer": {
-        "name": "Aaron Papp",
-        "url": "https://github.com/Aaron-P/SimpleSearchGoogleFor"
-    },
+    "name": "Easy Search",
+    "version": "1.5",
+    "description": "Easy search for highlight text on right click menu.",
+  "developer": {
+    "name": "Kelden",
+    "url": "https://github.com/De3trvctions/Software2"
+  },
     "icons": {
         "24": "icon.svg",
         "32": "icon.svg",
